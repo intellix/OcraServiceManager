@@ -21,7 +21,7 @@
         "zendframework/zend-mvc": "2.*",
         "zendframework/zend-servicemanager": "2.*",
         "zendframework/zend-modulemanager": "2.*",
-        "doctrine/common": ">=2.4.x-dev"
+        "doctrine/common": ">=2.4.*-dev"
     },
     "require-dev": {
         "zendframework/zend-developer-tools": "dev-master"
